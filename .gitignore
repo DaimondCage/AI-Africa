@@ -30,3 +30,12 @@ __pycache__/
 .env
 .env.*
 
+# Ignore the virtual environment
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore environment variables file (if you use it)
+.env
