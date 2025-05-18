@@ -1,10 +1,32 @@
-# Ignore the virtual environment
-venv/
+# Ignore system files
+.DS_Store
+Thumbs.db
 
-# Ignore Python cache files
+# Ignore Python junk (if you add any scripts later)
 __pycache__/
-*.pyc
+*.py[cod]
+*.ipynb_checkpoints
 
-# Ignore environment variables file (if you use it)
+# Ignore text editor/IDE files
+.vscode/
+*.swp
+*.swo
+
+# Ignore data cache/logs
+*.log
+*.tmp
+
+# Ignore large dataset files (if stored locally)
+*.zip
+*.tar
+*.gz
+*.csv
+*.json
+*.tsv
+*.wav
+*.mp3
+
+# Ignore envs (if you add code later)
 .env
+.env.*
 
