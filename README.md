@@ -1,6 +1,9 @@
-# AI-Africa
-Open-source Swahili language dataset for training and evaluating AI models. Includes cleaned text, audio, and translations. Built for research, accessibility, and the future of African NLP
-
 ## License
 
-This dataset is released under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.
+This dataset is available under a **Custom Non-Commercial License**.  
+- You may use it for non-commercial research and education with attribution.  
+- Commercial use, redistribution, or derivative datasets are prohibited without permission.  
+- Contact cagezeen@gmail.com for licensing inquiries.
+
+See [LICENSE.txt](./LICENSE.txt) for full terms.
+
