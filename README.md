@@ -1,9 +1,9 @@
-## License
+## 📜 License
 
-This dataset is available under a **Custom Non-Commercial License**.  
-- You may use it for non-commercial research and education with attribution.  
-- Commercial use, redistribution, or derivative datasets are prohibited without permission.  
-- Contact cagezeen@gmail.com for licensing inquiries.
+This dataset is protected under a **Custom License – Version 1.1**.  
+By accessing or using this repository, you agree to comply with the terms outlined in [`LICENSE-v1.1.txt`](./LICENSE-v1.1.txt).
 
-See [LICENSE.txt](./LICENSE.txt) for full terms.
+> Redistribution, commercial use, or derivative works are strictly prohibited without prior written permission.
+
+For details, see the pinned issue and [`USAGE.md`](./USAGE.md).
 
